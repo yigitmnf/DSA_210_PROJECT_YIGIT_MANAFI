@@ -23,6 +23,12 @@ The core idea is that our emotions are not random — they are connected to meas
 | **H1a** | Mood shows temporal continuity — today's mood positively correlates with tomorrow's mood |
 | **H1b** | As exam day approaches, next-day mood decreases |
 | **H1c** | Higher heart rate is associated with lower next-day mood |
-| **H1e** | Better sleep quality and duration are associated with higher next-day mood |
+| **H1e** | Better sleep quality and duration are associated with higher next-day mood 
+
+
+## 🔮 Next Steps
+
+- **Machine Learning Models** — Regression and classification for mood prediction
+- **Feature Importance Analysis** — Which variables matter most?|
 
 
