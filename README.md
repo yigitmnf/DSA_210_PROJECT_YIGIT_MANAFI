@@ -41,9 +41,9 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 | -------------- | -------------------- | ---------- | ---------- | ------------------------------- | ------------------------------ |
 | **H1a**        | Spearman correlation | ρ = 0.197  | **0.0008** | ✅ Reject H₀                     | ✅ Reject H₀                    |
 | H1b (corr)     | Spearman correlation | ρ = 0.058  | 0.490      | ❌ Fail to reject                | ❌ Fail to reject               |
-| H1b (group)    | Mann-Whitney U       | U = 3443   | 0.074      | ❌ Fail to reject *(borderline)* | ⚠️ Reject H₀ *(weak evidence)* |
+| H1b (group)    | Mann-Whitney U       | U = 3443   | 0.074      | ❌ Fail to reject *(borderline)* | ✅  Reject H₀ *(weak evidence)* |
 | H1c (avg HR)   | Spearman correlation | ρ = -0.014 | 0.818      | ❌ Fail to reject                | ❌ Fail to reject               |
-| H1c (resting)  | Spearman correlation | ρ = -0.116 | 0.059      | ❌ Fail to reject *(borderline)* | ⚠️ Reject H₀ *(weak evidence)* |
+| H1c (resting)  | Spearman correlation | ρ = -0.116 | 0.059      | ❌ Fail to reject *(borderline)* | ✅  Reject H₀ *(weak evidence)* |
 | H1e (duration) | Spearman correlation | ρ = 0.014  | 0.825      | ❌ Fail to reject                | ❌ Fail to reject               |
 | H1e (quality)  | Spearman correlation | ρ = 0.038  | 0.552      | ❌ Fail to reject                | ❌ Fail to reject               |
 
