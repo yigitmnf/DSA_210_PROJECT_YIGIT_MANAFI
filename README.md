@@ -41,16 +41,6 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 
 I record my emotional data on a daily basis in a notebook, following the recommendation of my psychologist. This practice helps me observe patterns in my mood over time and provides structured data for further analysis.
 
-## 🔬 Hypotheses
-
-| ID | Hypothesis |
-|----|------------|
-| **H₀** | No significant relationship between next-day mood and today's variables |
-| **H1a** | Mood shows temporal continuity — today's mood positively correlates with tomorrow's |
-| **H1b** | As exam day approaches, next-day mood decreases |
-| **H1c** | Higher heart rate → lower next-day mood |
-| **H1d** | Next-day mood is higher when tomorrow is a weekend |
-| **H1e** | Better sleep → higher next-day mood |
 
 ## 📈 Key Findings
 
