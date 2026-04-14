@@ -32,7 +32,7 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 | Source | Features |
 |--------|----------|
 | **Smartwatch** | Heart rate, sleep data (duration, deep/light/REM, bedtime) |
-| **Samsung Notes ** | Daily self-reported mood (after processing 1–5 scale, 0.5 increments) |
+| **Samsung Notes** | Daily self-reported mood (after processing 1–5 scale, 0.5 increments) |
 | **Google Calendar** | Exam dates and proximity |
 **Dataset:** 398 rows × 11 features. Mood data available for 305 days.
 
