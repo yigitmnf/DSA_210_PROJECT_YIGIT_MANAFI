@@ -25,6 +25,20 @@ The core idea is that our emotions are not random — they are connected to meas
 | **H1c** | Higher heart rate is associated with lower next-day mood |
 | **H1e** | Better sleep quality and duration are associated with higher next-day mood 
 
+## 📈 Key Findings
+
+### Hypothesis Test Results (α = 0.05)
+
+| Hypothesis | Test | Statistic | p-value | Decision |
+|------------|------|-----------|---------|----------|
+| **H1a** | Spearman correlation | ρ = 0.197 | **0.0008** | ✅ Reject H₀ |
+| H1b (corr) | Spearman correlation | ρ = 0.058 | 0.490 | ❌ Fail to reject |
+| H1b (group) | Mann-Whitney U | U = 3443 | 0.074 | ❌ Fail to reject (borderline) |
+| H1c (avg HR) | Spearman correlation | ρ = -0.014 | 0.818 | ❌ Fail to reject |
+| H1c (resting) | Spearman correlation | ρ = -0.116 | 0.059 | ❌ Fail to reject (borderline) |
+| H1e (duration) | Spearman correlation | ρ = 0.014 | 0.825 | ❌ Fail to reject |
+| H1e (quality) | Spearman correlation | ρ = 0.038 | 0.552 | ❌ Fail to reject |
+
 
 ## 🔮 Next Steps
 
