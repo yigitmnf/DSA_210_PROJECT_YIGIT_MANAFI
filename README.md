@@ -36,6 +36,10 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 | **Google Calendar** | Exam dates and proximity |
 **Dataset:** 398 rows × 11 features. Mood data available for 305 days.
 
+## Daily Mood Tracking
+
+I record my emotional data on a daily basis in a notebook, following the recommendation of my psychologist. This practice helps me observe patterns in my mood over time and provides structured data for further analysis.
+
 ## 🔬 Hypotheses
 
 | ID | Hypothesis |
