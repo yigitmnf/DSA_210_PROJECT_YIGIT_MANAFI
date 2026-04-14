@@ -13,3 +13,16 @@ Can we predict how we will feel tomorrow by looking at today's data? This projec
 
 The core idea is that our emotions are not random — they are connected to measurable factors such as sleep quality, heart rate, stress levels, physical activity, and exam schedules.
 
+
+
+## 🔬 Hypotheses
+
+| ID | Hypothesis |
+|----|------------|
+| **H₀** | There is no statistically significant relationship between next-day mood and today's variables |
+| **H1a** | Mood shows temporal continuity — today's mood positively correlates with tomorrow's mood |
+| **H1b** | As exam day approaches, next-day mood decreases |
+| **H1c** | Higher heart rate is associated with lower next-day mood |
+| **H1e** | Better sleep quality and duration are associated with higher next-day mood |
+
+
