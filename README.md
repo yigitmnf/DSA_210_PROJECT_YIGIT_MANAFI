@@ -31,12 +31,9 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 
 | Source | Features |
 |--------|----------|
-| **Smartwatch** | Heart rate, blood oxygen (SpO2), sleep data (duration, deep/light/REM, bedtime) |
-| **Phone** | Step count, calories, distance |
+| **Smartwatch** | Heart rate, sleep data (duration, deep/light/REM, bedtime) |
 | **Mood App** | Daily self-reported mood (1–5 scale, 0.5 increments) |
 | **Google Calendar** | Exam dates and proximity |
-| **Wearable Stress** | Daily stress scores (average, min, max) |
-
 **Dataset:** 398 rows × 28 features, with mood data available for 305 days (Only 200 days used due to empty slotes.)
 
 
