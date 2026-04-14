@@ -61,6 +61,16 @@ All data comes from personal self-tracking over **398 days** (March 2025 – Apr
 | H1e (quality) | Spearman correlation | ρ = 0.038 | 0.552 | ❌ Fail to reject | ❌ Fail to reject |
 
 
+**Key insight:** Today's mood is the strongest predictor of tomorrow's mood (p < 0.001), confirming temporal continuity of emotional states. At α = 0.10, resting heart rate and exam proximity (group comparison) also show weak evidence of association with next-day mood.
+
+## 🔧 How to Reproduce
+
+```bash
+pip install -r requirements.txt
+jupyter notebook EDA_and_Hypothesis_Testing.ipynb
+```
+
+
 
 ## 🔮 Next Steps
 
