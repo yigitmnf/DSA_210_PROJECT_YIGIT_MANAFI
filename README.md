@@ -25,6 +25,21 @@ The core idea is that our emotions are not random — they are connected to meas
 | **H1c** | Higher heart rate is associated with lower next-day mood |
 | **H1e** | Better sleep quality and duration are associated with higher next-day mood 
 
+## 📊 Data Source
+
+All data comes from personal self-tracking over **398 days** (March 2025 – April 2026):
+
+| Source | Features |
+|--------|----------|
+| **Smartwatch** | Heart rate, blood oxygen (SpO2), sleep data (duration, deep/light/REM, bedtime) |
+| **Phone** | Step count, calories, distance |
+| **Mood App** | Daily self-reported mood (1–5 scale, 0.5 increments) |
+| **Google Calendar** | Exam dates and proximity |
+| **Wearable Stress** | Daily stress scores (average, min, max) |
+
+**Dataset:** 398 rows × 28 features, with mood data available for 305 days (Only 200 days used due to empty slotes.)
+
+
 ## 📈 Key Findings
 
 ### Hypothesis Test Results (α = 0.05)
