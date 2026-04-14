@@ -19,11 +19,12 @@ The core idea is that our emotions are not random — they are connected to meas
 
 | ID | Hypothesis |
 |----|------------|
-| **H₀** | There is no statistically significant relationship between next-day mood and today's variables |
-| **H1a** | Mood shows temporal continuity — today's mood positively correlates with tomorrow's mood |
+| **H₀** | No significant relationship between next-day mood and the measured daily variables |
+| **H1a** | Mood shows temporal continuity — today's mood positively correlates with tomorrow's |
 | **H1b** | As exam day approaches, next-day mood decreases |
-| **H1c** | Higher heart rate is associated with lower next-day mood |
-| **H1e** | Better sleep quality and duration are associated with higher next-day mood 
+| **H1c** | Higher heart rate → lower next-day mood |
+| **H1d** | Next-day mood is higher when tomorrow is a weekend |
+| **H1e** | Better sleep → higher next-day mood |
 
 ## 📊 Data Source
 
